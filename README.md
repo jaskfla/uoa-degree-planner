@@ -93,7 +93,7 @@ The last two API keys need to be generated from the [University of Auckland Deve
 In the root directory, there is [a (non-functional) example](/.env.local.example) of what your env file should look like.
 
 > [!IMPORTANT]
-> Do **not** commit env files to version control. Git has been [configured to ignore it](https://github.com/SOFTENG310-G7/degree-planner/blob/main/.gitignore).
+> Do **not** commit env files to version control. Git has been [configured to ignore it](.gitignore).
 
 ### Step 4: Good to go!
 
